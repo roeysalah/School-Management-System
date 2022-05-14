@@ -1,4 +1,7 @@
 
+/* Assignment: 3
+Author: Roey Salah,
+ */
 
 #include <iostream>
 #include "Pupil.h"

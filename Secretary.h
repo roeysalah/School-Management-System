@@ -1,9 +1,4 @@
-/* Assignment: 3
-Author: Roey Salah,
- ID: 206115438
-Author: Priel Hoffman,
- ID: 318277308
-*/
+
 
 #ifndef ASSIGNMENT3_SECRETARY_H
 #define ASSIGNMENT3_SECRETARY_H
