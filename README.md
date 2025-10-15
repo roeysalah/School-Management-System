@@ -235,7 +235,7 @@ School-Management-System-main/
 ├── Tutor.cpp / .h
 ├── VecAnalyser.cpp / .h
 ├── Worker.cpp / .h
-├── assignment3.cpp  ← Main program
+├── main.cpp  ← Main program
 └── makefile
 ```
 
